@@ -35,7 +35,6 @@ namespace SerialPortDemo
             int select_port_num = Console.Read()-48;
             string select_port = serial_port[select_port_num];
             Console.WriteLine("您选择的是：" + select_port);
-            //Console.ReadKey();
 
             if (!serial_port_init(select_port))
             {
