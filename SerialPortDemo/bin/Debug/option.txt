@@ -1,0 +1,7 @@
+﻿baudrate|115200
+16|0
+\r\n|0
+q|helloworld
+w|123
+e|456
+r|789

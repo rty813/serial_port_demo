@@ -1,0 +1,10 @@
+c:\users\zhang\documents\visual studio 2017\Projects\SerialPortDemo\SerialPortDemo\bin\Debug\SerialPortDemo.exe.config
+c:\users\zhang\documents\visual studio 2017\Projects\SerialPortDemo\SerialPortDemo\bin\Debug\SerialPortDemo.exe
+c:\users\zhang\documents\visual studio 2017\Projects\SerialPortDemo\SerialPortDemo\bin\Debug\SerialPortDemo.pdb
+c:\users\zhang\documents\visual studio 2017\Projects\SerialPortDemo\SerialPortDemo\obj\Debug\SerialPortDemo.csprojResolveAssemblyReference.cache
+c:\users\zhang\documents\visual studio 2017\Projects\SerialPortDemo\SerialPortDemo\obj\Debug\SerialPortDemo.exe
+c:\users\zhang\documents\visual studio 2017\Projects\SerialPortDemo\SerialPortDemo\obj\Debug\SerialPortDemo.pdb
+C:\Users\zhang\documents\visual studio 2017\Projects\SerialPortDemo\SerialPortDemo\bin\Debug\SerialPortDemo.exe.manifest
+C:\Users\zhang\documents\visual studio 2017\Projects\SerialPortDemo\SerialPortDemo\bin\Debug\SerialPortDemo.application
+C:\Users\zhang\documents\visual studio 2017\Projects\SerialPortDemo\SerialPortDemo\obj\Debug\SerialPortDemo.exe.manifest
+C:\Users\zhang\documents\visual studio 2017\Projects\SerialPortDemo\SerialPortDemo\obj\Debug\SerialPortDemo.application
