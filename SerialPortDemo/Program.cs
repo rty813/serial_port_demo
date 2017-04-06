@@ -81,6 +81,7 @@ namespace SerialPortDemo
                 comm = new SerialPort();
                 comm.NewLine = "\r\n";
                 comm.PortName = select_port;
+                comm.DataReceived += Comm_DataReceived;
 
                 dict = new Dictionary<string, string>();
                 StreamReader reader = new StreamReader(Environment.CurrentDirectory + "\\option.txt");
@@ -115,6 +116,15 @@ namespace SerialPortDemo
             }
 
 
+        }
+
+        private static void Comm_DataReceived(object sender, SerialDataReceivedEventArgs e)
+        {
+            int len = comm.BytesToRead;
+            byte[] buf = new byte[len];
+            comm.Read(buf, 0, len);
+            Console.WriteLine("Recv: " + Encoding.ASCII.GetString(buf));
+            //throw new NotImplementedException();
         }
     }
 }
