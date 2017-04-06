@@ -124,7 +124,6 @@ namespace SerialPortDemo
             byte[] buf = new byte[len];
             comm.Read(buf, 0, len);
             Console.WriteLine("Recv: " + Encoding.ASCII.GetString(buf));
-            //throw new NotImplementedException();
         }
     }
 }
